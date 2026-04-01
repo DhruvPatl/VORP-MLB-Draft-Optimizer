@@ -1,4 +1,0 @@
-%%writefile .gitignore
-drive/
-sample_data/
-.config/
